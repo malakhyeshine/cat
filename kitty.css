@@ -11,14 +11,14 @@
 		background-image:url(images/squiddab.gif);
 	}
 }
-@media screen and (min-width: 680px) {
+@media screen and (min-width: 750px) {
    body {
 		content:url(images/kitten-medium.png);
-	background-image:url(images/cuphead_potato_6.0.gif);
+	background-image:url(images/squid.gif);
 	
 	}
 }
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
     body {
 		content:url(images/kitten-large.png);
 		background-image:url(images/peter.gif);
